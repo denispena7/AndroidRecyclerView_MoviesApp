@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">FilmingApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FilmingApp</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- OPCIONES MENÚ LATERAL -->
+    <string name="menu_home">Inicio</string>
+    <string name="menu_movies">Películas</string>
+    <string name="menu_series">Series</string>
+
+    <!-- TÍTULOS DE LOS FILMS -->
+    <string name="lblTitle">TÍTULO</string>
+    <string name="lblDirector">DIRECTOR</string>
+    <string name="lblClasificacion">CLASIFICACIÓN</string>
+    <string name="lblReparto">REPARTO</string>
+    <string name="lblSinopsis">SINOPSIS</string>
+    <string name="lblTemporadas">%d temporadas, %d episodios</string>
+    <string name="mini_img_descripcion">Poster film</string>
+
+    <!-- TÍTULOS DE PELÍCULAS -->
+    <string name="batman">The Batman</string>
+    <string name="superman">Superman</string>
+    <string name="wonderwoman">Mujer Maravilla</string>
+    <string name="joker">Joker</string>
+    <string name="suicidesquad">Escuadrón Suicida</string>
+    <string name="aquaman">Aquaman</string>
+    <string name="shazam">Shazam!</string>
+
+    <!-- TÍTULOS DE SERIES -->
+    <string name="penguin">El Pingüino</string>
+    <string name="peacemaker">El Pacificador</string>
+    <string name="theboys">The Boys</string>
+    <string name="invincible">Invencible</string>
+    <string name="superman_animado">Mis aventuras con Superman</string>
+    <string name="creature_commandos">Creature Commandos</string>
+    <string name="genv">Gen V</string>
+
+    <!-- DIRECTORES DE PELÍCULAS -->
+    <string name="director_batman">Matt Reeves</string>
+    <string name="director_superman">James Gunn</string>
+    <string name="director_wonderwoman">Patty Jenkins</string>
+    <string name="director_joker">Todd Phillips</string>
+    <string name="director_suicidesquad">James Gunn</string>
+    <string name="director_aquaman">James Wan</string>
+    <string name="director_shazam">David F. Sandberg</string>
+
+    <!-- REPARTOS DE PELÍCULAS -->
+    <string name="reparto_batman">Robert Pattinson, Zoë Kravitz, Paul Dano</string>
+    <string name="reparto_superman">David Corensweet, Rachel Brosnahan, Nicholas Hoult</string>
+    <string name="reparto_wonderwoman">Gal Gadot, Chris Pine, Robin Wright</string>
+    <string name="reparto_joker">Joaquin Phoenix, Robert De Niro, Zazie Beetz</string>
+    <string name="reparto_suicidesquad">Margot Robbie, Idris Elba, John Cena</string>
+    <string name="reparto_aquaman">Jason Momoa, Amber Heard, Willem Dafoe</string>
+    <string name="reparto_shazam">Zachary Levi, Asher Angel, Jack Dylan Grazer</string>
+
+    <!-- SINOPSIS DE PELÍCULAS -->
+    <string name="sinopsis_batman">Un nuevo asesino pone la mirada en algunos de los ciudadanos de Gotham creando una serie de sádicas maquinaciones que, mediante un rastro de pistas en forma de rompecabezas, llevarán a Batman por un camino turbulento y despiadado. </string>
+    <string name="sinopsis_superman">Sigue al superhéroe titular mientras reconcilia su herencia con su educación humana. Es la encarnación de la verdad, la justicia y un mañana mejor en un mundo que ve la bondad como algo anticuado.</string>
+    <string name="sinopsis_wonderwoman">Cuando un piloto se estrella y habla de un conflicto en el mundo exterior, Diana, una guerrera amazona en formación, deja su hogar para luchar en la guerra, descubriendo sus plenos poderes y su verdadero destino.</string>
+    <string name="sinopsis_joker">En Gotham, Arthur Fleck, un comediante con problemas de salud mental, es marginado y maltratado por la sociedad. Se adentra en una espiral de crimen que resulta revolucionaria. Pronto conoce a su alter-ego, el Joker</string>
+    <string name="sinopsis_suicidesquad">Harley Quinn, Bloodsport, Peacemaker y sus compañeros de la prisión de Belle Reve se unen al grupo de trabajo supersecreto y supersiniestro X en la lejana isla de Corto Maltese, que está llena de enemigos.</string>
+    <string name="sinopsis_aquaman">Arthur Curry descubre que es el heredero del reino submarino de Atlantis, y debe dar un paso al frente para guiar a su gente y convertirse en un héroe para el mundo.</string>
+    <string name="sinopsis_shazam">Todo el mundo lleva un superhéroe en su interior, solo se necesita un poco de magia para sacarlo. En el caso de Billy Batson, un joven huérfano de 14 años, con tan solo pronunciar la palabra Shazam se convierte en un superhéroe adulto.</string>
+
+    <!-- DIRECTORES DE SERIES -->
+    <string name="director_penguin">Lauren LeFranc</string>
+    <string name="director_theboys">Eric Kripke</string>
+    <string name="director_invincible">Robert Kirkman</string>
+    <string name="director_superman_animado">Jen Bennett</string>
+    <string name="director_creature_commandos">James Gunn</string>
+    <string name="director_genv">Eric Kripke</string>
+
+    <!-- REPARTOS DE SERIES -->
+    <string name="reparto_penguin">Colin Farrel, Cristin Milioti, Rhenzy Feliz, Theo Rossi, Clancy Brown</string>
+    <string name="reparto_peacemaker">John Cena, Danielle Brooks, Freddie Stroma, Jennifer Holland, Steve Agee</string>
+    <string name="reparto_theboys">Karl Urban, Antony Starr, Jack Quaid, Erin Moriarty</string>
+    <string name="reparto_invincible">Steven Yeun, J.K. Simons, Sandra Oh</string>
+    <string name="reparto_superman_animado">Jack Quaid, Alice Lee, Ishmel Sahid</string>
+    <string name="reparto_creature_commandos">Maria Bakalova, Indira Varma, Frank Grillo</string>
+    <string name="reparto_genv">Jaz Sinclair, Lizze Broadway, Maddie Phillips, Chance Perdomo</string>
+
+    <!-- SINOPSIS DE SERIES -->
+    <string name="sinopsis_penguin">Sigue la transformación de Oz Cobb que pasa de ser un don nadie desfigurado a un reputado gángster de Gotham.</string>
+    <string name="sinopsis_peacemaker">El origen del superhéroe de DC tan dedicado a la paz mundial que está dispuesto a usar la fuerza de las armas para lograrlo.</string>
+    <string name="sinopsis_theboys">Un grupo de vigilantes se dispuso a acabar con los superhéroes corruptos que abusan de sus superpoderes.</string>
+    <string name="sinopsis_invincible">Serie animada que gira en torno a Mark Grayson, que es como cualquier otro chico de su edad, solo que su padre es el superhéroe más poderoso del planeta.</string>
+    <string name="sinopsis_superman_animado">Clark Kent construye su identidad secreta de Superman y asume su papel de héroe de Metrópolis, mientras comparte aventuras y se enamora de Lois Lane.</string>
+    <string name="sinopsis_creature_commandos">Sigue a un grupo de superhumanos militares compuesto por un líder humano, un hombre lobo, un vampiro, el monstruo de Frankenstein y una gorgona.</string>
+    <string name="sinopsis_genv">Adolescentes superhéroes en la única universidad de América, dirigida por Vought International. Hormonales, competitivos, desafiando sus límites físicos, sexuales y morales.</string>
+</resources>
